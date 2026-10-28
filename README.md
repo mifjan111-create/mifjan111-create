@@ -1,16 +1,28 @@
-## Hi there 👋
+**Hi, I'm Miftahul Jannat 👋**
 
-<!--
-**mifjan111-create/mifjan111-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Graduate | People Analytics
 
-Here are some ideas to get you started:
+**Skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SQL • Power BI • HR Analytics • Data Quality • Workforce Reporting
+
+**Projects**
+
+📊 HR Data Quality & Migration Validation
+
+📈 HR Workforce Analytics Dashboard
+
+🔄 HR Source-to-Target Mapping & ETL Validation
+
+📍 Toronto, ON
+
+
+
+
+**Connect With Me**
+
+•	**LinkedIn:** https://www.linkedin.com/in/mif-jan/ 
+
+•	**GitHub:** [github.com/mifjan111-create](https://github.com/mifjan111-create)
+
+
