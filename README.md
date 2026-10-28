@@ -1,10 +1,10 @@
 **Hi, I'm Miftahul Jannat 👋**
 
-Business Graduate | People Analytics
+Business Graduate with a Postgraduate Certificate in People Analytics
 
 **Skills**
 
-SQL • Power BI • HR Analytics • Data Quality • Workforce Reporting
+SQL • Power BI • HR Analytics • Data Quality • Data Reconciliation • Workforce Reporting 
 
 **Projects**
 
